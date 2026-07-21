@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mani Chandana</h1>
-<h3 align="center">An Aspiring Front-End Developer</h3>
+<h3 align="center">An Aspiring AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manichandana1215&label=Profile%20views&color=0e75b6&style=flat" alt="manichandana1215" /> </p>
 
